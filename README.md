@@ -11,17 +11,11 @@
 - 降低南北資訊領域學習資源不均
 - 試圖在高中畢業前在路竹高中傳承資訊領域的學習
 
-## 目前程度  
-- 演算法競程 C/C++
-- 資安新手 
-- Vue 新手
-- 後端入門中
-
 ## 掌握技能
 - 基礎外傷包紮處理
 - C/C++
 - Python
-- Vue (初學)
+- Vue 
 
 ## 目前開發專案
 - 土壤裂痕判斷 (科展)
@@ -33,7 +27,7 @@
 
 ## 個人經歷  
 - [IDystopia 2035 數位身分大冒險](https://g0v.hackmd.io/@qsl-tuBOSqqgZqsmYAFtzA/ryS4ob4WP/https%3A%2F%2Fg0v.hackmd.io%2FW4pZelEoTDyuYWiQBndr6Q) 遊戲設計開發者之一
-- 2021 NHDK NHDK 四校聯合初學者程式設計練習賽 實體賽 工人
+- 2021 NHDK 四校聯合初學者程式設計練習賽 實體賽 工人
 - [2020 SITCON Hour of Code 台南場](https://flic.kr/s/aHsmTkAPFt) 總召/講者
 - [SCIST](https://scist.org/) 助教
 - 2020 路竹高中資訊研究社 副社長/發起人/講師
