@@ -2,8 +2,8 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rukiren&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rukiren&layout=compact&theme=vue-dark)
-白兔
-不是兔子
+- 白兔
+- 不是兔子
 不要問我兔子怎麼叫
 目前主要打競程
 資安新手
