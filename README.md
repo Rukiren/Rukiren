@@ -13,6 +13,7 @@
 - 後端入門中  
 
 ## 個人經歷  
+- 2021 NHDK NHDK 四校聯合初學者程式設計練習賽 實體賽 工人
 - [2020 SITCON Hour of Code 台南場](https://flic.kr/s/aHsmTkAPFt) 總召/講者
 - [SCIST](https://scist.org/) 助教
 - 2020 路竹高中資訊研究社 副社長/發起人/講師
