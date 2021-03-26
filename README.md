@@ -31,6 +31,7 @@
 - Arduino 簡易冰箱
 
 ## 個人經歷  
+- 2021 SITCON camp 課活組組員
 - 高雄市立路竹高級中學 資訊研究社 OnlineJudge
 - [IDystopia 2035 數位身分大冒險](https://g0v.hackmd.io/@qsl-tuBOSqqgZqsmYAFtzA/ryS4ob4WP/https%3A%2F%2Fg0v.hackmd.io%2FW4pZelEoTDyuYWiQBndr6Q) 遊戲設計開發者之一
 - 2021 NHDK 四校聯合初學者程式設計練習賽 實體賽 工人
