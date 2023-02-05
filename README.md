@@ -17,7 +17,7 @@
 - Css
 
 ## 目前開發專案
-- google scholar 論文資料整理系統
+- disline_Judge
 
 ## 社群表現
 - 2022 SITCON 學生計算機年會 議程組 組員
