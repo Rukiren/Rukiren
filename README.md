@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rukiren&layout=compact&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rukiren&layout=compact&theme=vue-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rukiren&langs_count=8)](https://github.com/Rukiren/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rukiren&hide=javascript,html)](https://github.com/Rukiren/github-readme-stats)
 
 白兔  Ruki
 
