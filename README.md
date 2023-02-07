@@ -4,11 +4,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rukiren&layout=compact&theme=vue-dark" />
 </a>
 <a href="https://github.com/Rukiren/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukiren&langs_count=3&theme=vue-dark&hide=javascript,html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukiren&langs_count=3&theme=vue-dark&hide=javascript,html,css" />
 </a>
-白兔  Ruki
 
-不要問我兔子怎麼叫   
+
+## 白兔  Ruki
+
+## 不要問我兔子怎麼叫   
 
 ## 目標
 - 找到一份實習，養得活自己
