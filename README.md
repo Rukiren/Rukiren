@@ -12,4 +12,5 @@
 
 不要問我兔子怎麼叫   
 
-
+Blog: blog.rukiren.com
+Mail: mail@rukiren.com
